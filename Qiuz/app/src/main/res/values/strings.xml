@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">\></string>
+    <string name="button_previous"> <![CDATA[ < ]]> </string>
+    <string name="button_cheat">Cheat!</string>
+    <string name="answer_correct">Correct </string>
+    <string name="answer_incorrect">Incorrect </string>
+    <string name="reply_yes">Show answer</string>
+    <string name="question_1">blue + red = green?</string>
+    <string name="question_2">yellow + red = black?</string>
+    <string name="question_3">blue + yellow = green?</string>
+    <string name="question_4">green + red = brown?</string>
+    <string name="question_5"> black + white = red?</string>
+    <string name="toast_cheating">Ban da gian lan!</string>
+</resources>
